@@ -6,7 +6,7 @@
 本工具按模板规则自动定位数据区域、宽转长、统一口径后汇总出标准数据集。
 项目流程抽象自一个运行多年的多基地库存报表汇总场景，**仓库内全部数据均为程序合成，不含任何真实业务信息**。
 
-姊妹项目：https://github.com/GenGC0128/coa-portfolio（异构 PDF 批量解析），同一套“规则驱动解析”架构。
+姊妹项目：https://github.com/GenGC0128/coa-portfolio
 
 **Lead: @GenGC0128** 
 
