@@ -1,0 +1,10 @@
+{
+  "spec_aliases": ["dense small", "loose chunk", "granular", "mono chunk",
+                   "dense block", "recycled feed", "mono feed"],
+  "loose_specs": ["loose chunk", "granular", "recycled feed"],
+  "size_aliases": ["small", "feed", "chunk", "block"],
+  "small_sizes": ["small", "feed"],
+  "granular_specs": ["granular"],
+  "recycled_specs": ["recycled feed"],
+  "supplier_aliases": ["NovaSilicon", "HelioMaterials", "AuroraPoly", "TerraWafers"]
+}
